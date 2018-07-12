@@ -1,0 +1,9 @@
+<h1>Reviews</h1>
+<a href="/">Home</a>
+
+@foreach(var rev in ViewBag.allRev){
+<p>Review For: @rev.Resturant_Name , @rev.Star Star</p>
+<p>Reviewer: @rev.Reviewer_Name , @rev.Review_Date</p>
+<p>@rev.review</p><br>
+<p>_________________________________________________</p>
+}

@@ -1,0 +1,42 @@
+﻿@using Entity.Models
+@model Review
+
+
+<h1>Review Resturant</h1>
+
+<form asp-action="addRev"  method="POST">
+    <span asp-validation-for="Reviewer_Name"></span>
+    <label asp-for="Reviewer_Name">Reviewer Name: <input type="text" name="Reviewer_Name">
+    </label>
+    
+
+    <span asp-validation-for="Resturant_Name"></span>
+    <label asp-for="Resturant_Name">Resturant Name:<input type="text" name="Resturant_Name">
+</label>
+    <span asp-validation-for="review"></span>
+    <label asp-for="review">Review: <input type="text" name="review"><br>
+</label>
+
+    <span asp-validation-for="Review_Date"></span>
+    <label asp-for="Review_Date">Dateof Visit: <input type="date" name="Review_Date"> 
+    </label>
+    <br><br>
+
+
+    <span>Stars: </span><select  name="Star">
+
+            <option value="5">5</option>
+            <option value="4">4</option>
+            <option value="3">3</option>
+            <option value="2">2</option>
+            <option value="1">1</option>
+</select><br><br>
+
+
+
+    <input type="submit" value="Create Record!">
+
+</form>
+
+
+<a href="ReviewsView">Reviews</a>

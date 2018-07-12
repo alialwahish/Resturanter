@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/Entity/obj/Debug/netcoreapp2.0/Entity.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/Entity/obj/Debug/netcoreapp2.0/Entity.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/Entity/obj/Debug/netcoreapp2.0/Entity.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/Entity/obj/Debug/netcoreapp2.0/Entity.AssemblyInfo.cs
+/home/ali/codingDojo/c#/Entity/bin/Debug/netcoreapp2.0/Entity.deps.json
+/home/ali/codingDojo/c#/Entity/bin/Debug/netcoreapp2.0/Entity.runtimeconfig.json
+/home/ali/codingDojo/c#/Entity/bin/Debug/netcoreapp2.0/Entity.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/Entity/bin/Debug/netcoreapp2.0/Entity.dll
+/home/ali/codingDojo/c#/Entity/bin/Debug/netcoreapp2.0/Entity.pdb
+/home/ali/codingDojo/c#/Entity/obj/Debug/netcoreapp2.0/Entity.dll
+/home/ali/codingDojo/c#/Entity/obj/Debug/netcoreapp2.0/Entity.pdb
